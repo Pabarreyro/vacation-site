@@ -10,6 +10,16 @@ body {
   font-family: 'Lobster', cursive;
 }
 
+.package-title {
+  text-align: center;
+}
+
+.quote-title {
+  font-family: cursive;
+  font-weight: lighter;
+  text-align: center;
+}
+
 blockquote {
   font-size: 12;
 }
