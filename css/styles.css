@@ -2,7 +2,7 @@ h1 {
   text-align: center;
 }
 
-h3 {
+h1, h2, h3 {
   text-align: center;
 }
 
@@ -12,6 +12,16 @@ body {
 
 .package-title {
   text-align: center;
+}
+
+.detail-headings {
+
+}
+
+.details {
+  font-family: monospace;
+  font-weight: lighter;
+
 }
 
 .quote-title {
